@@ -1,0 +1,5 @@
+echo "I am Creating Some Feilds For Registration"
+sNo=1001
+sName="ManikantaReddy"
+sAddress="Bangalore"
+
